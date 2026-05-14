@@ -15,19 +15,22 @@ int main() {
     }
 
     printf("Enter the number you would like to search for");
-    scanf("")
+    scanf("%d", &num);
 
-    for (i = 0; i < num - 1; i++) {
-        for (j = 0; j < num - 1; j++) {
-            if (arr[j + 1] < arr[j]) {
-                temp = arr[j];
-                arr[j] = arr[j + 1];
-                arr[j + 1] = temp;
-            }
-        }
+    printf("Would you like to print the first instance, or all instances of the found search term?");
+    printf("\n1 - First instance only\n2 - All instances");
+    scanf("%d", &temp);
+
+    if (temp != 1 || temp != 2) {
+        return 0;
     }
 
     for (i = 0; i < num; i++) {
-        printf("%d ", arr[i]);
+        if (arr[i] == num) {
+            printf("%d at position: %d", num, i + 1);
+            if (temp == 2) {
+                return 0;
+            }
+        }
     }
 }

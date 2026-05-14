@@ -1,17 +1,15 @@
 #include <stdio.h>
 
 int main() {
-    int in, num, arr[100];
-    int np = 0, temp = 0, i, j;
+    int num, arr[100];
+    int temp, i, j;
 
     printf("Enter the number of inputs: ");
     scanf("%d", &num);
 
     printf("Enter %d inputs: ", num);
-    while (temp < num) {
-        scanf("%d", &in);
-        arr[temp] = in;
-        temp++;
+    for (temp = 0; temp < num; temp++) {
+        scanf("%d", &arr[temp]);
     }
 
     for (i = 0; i < num / 2; i++) {

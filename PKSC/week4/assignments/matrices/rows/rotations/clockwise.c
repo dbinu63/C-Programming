@@ -15,12 +15,12 @@ int main() {
     printf("\nHow many moves would you like to make: ");
     scanf("%d", &num);
 
-    for (j = 3; j >= 0; j--) {
+    for (i = 0; i < 3; i++) {
         for (k = 0; k < num; k++) {
-            for (i = 0; i < 2; i++) {
-                a[i + 1][j] += a[i][j];
-                a[i][j] = a[i + 1][j] - a[i][j];
-                a[i + 1][j] -= a[i][j];
+            for (j = 0; j < 3; j++) {
+                a[i][j + 1] += a[i][j];
+                a[i][j] = a[i][j + 1] - a[i][j];
+                a[i][j + 1] -= a[i][j];
             }
         }
     }

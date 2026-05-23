@@ -1,3 +1,6 @@
+// WAP to print the fibonacci sequence up until a given position using recursive functions
+// By: D.B.
+
 #include <stdio.h>
 
 void fib(int);

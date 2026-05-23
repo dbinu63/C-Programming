@@ -1,3 +1,6 @@
+// WAP to determine if a matrix is a unit matrix
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

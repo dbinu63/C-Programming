@@ -1,3 +1,6 @@
+// WAP to swap two inputs using a by reference function
+// BY: D.B.
+
 #include <stdio.h>
 
 void swap(int *, int *);

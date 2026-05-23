@@ -1,3 +1,6 @@
+// WAP to perform matrix addition
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

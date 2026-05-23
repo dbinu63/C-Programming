@@ -1,3 +1,6 @@
+// WAP to print a triangle of decreasing numbers
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

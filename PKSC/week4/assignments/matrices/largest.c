@@ -1,3 +1,6 @@
+// WAP to deteremine the largest element in a matrix
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

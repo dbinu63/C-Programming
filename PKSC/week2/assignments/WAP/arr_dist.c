@@ -1,3 +1,6 @@
+// WAP to determine the distance between the smallest and largest elements in an array
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

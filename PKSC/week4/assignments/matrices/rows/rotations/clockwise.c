@@ -1,3 +1,6 @@
+// WAP to rotate the elements of a matrix's rows in a clockwise fashiom
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

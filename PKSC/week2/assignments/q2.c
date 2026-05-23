@@ -1,3 +1,6 @@
+// WAP to print the sum of the first and last prime numbers between 100 & 999
+// By: D.B.
+
 #include<stdio.h>
 int main() {
     int num;
@@ -13,6 +16,6 @@ int main() {
             last = num;
         }
     }
-    printf("Sum of first (%d) and last (%d) primer number is %d", first, last, first+last);
+    printf("Sum of first (%d) and last (%d) prime number is %d", first, last, first+last);
     return 0;
 }

@@ -1,3 +1,6 @@
+// WAP to sort an array in by odds, then evens, and in ascending order
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

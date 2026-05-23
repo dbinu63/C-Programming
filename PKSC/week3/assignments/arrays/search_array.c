@@ -1,3 +1,6 @@
+// WAP to search a given array for a given search term, and filter by first instance or all instances. 
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

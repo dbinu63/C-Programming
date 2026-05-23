@@ -1,3 +1,6 @@
+// WAP to determine letter grade (by predefined system)
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

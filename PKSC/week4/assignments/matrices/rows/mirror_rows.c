@@ -1,3 +1,7 @@
+// WAP to mirror the elements in every row of a matrix
+// By: D.B.
+
+
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,6 @@
+// WAP to print a single and double lined box (practice with for loops, unicode)
+// By: D.B.
+
 #include <stdio.h>
 #include <locale.h>
 #include <wchar.h>

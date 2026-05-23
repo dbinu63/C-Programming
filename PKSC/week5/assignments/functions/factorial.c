@@ -1,3 +1,6 @@
+// WAP to determine the factorial of a given input using recursive functions
+// By: D.B.
+
 #include <stdio.h>
 
 int fact(int);

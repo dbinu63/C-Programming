@@ -1,3 +1,6 @@
+// Experimentation with for loops
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

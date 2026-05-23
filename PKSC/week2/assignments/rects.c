@@ -1,3 +1,6 @@
+// WAP a series of programs to print a variety of rectangles
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

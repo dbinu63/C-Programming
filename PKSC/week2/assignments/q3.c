@@ -1,3 +1,6 @@
+// WAP to sum the internal digits of a given input
+// By: D.B.
+
 #include<stdio.h>
 
 int main() {
@@ -12,4 +15,4 @@ int main() {
     }
     printf("Sum of internal digits is %d", sum);
     return 0;
-} // couldn't find any issues
+}

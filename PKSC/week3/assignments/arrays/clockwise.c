@@ -1,3 +1,6 @@
+// WAP to rotate the elements of an array in a clockwise fashiom
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,6 @@
+// WAP a series of programs to check if a given input number is prime, a palindrome, a perfect number, strong, armstrong, spy, neon or within the fibonacci sequence & three programs to determine all strongs between 1 & 1000, all primes between 1 & 1000, and the sum of all perfect numbers between 10 & 1000
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

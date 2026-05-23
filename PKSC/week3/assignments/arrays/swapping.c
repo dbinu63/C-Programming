@@ -1,3 +1,6 @@
+// WAP to mirror the elements in an array
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

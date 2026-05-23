@@ -1,3 +1,6 @@
+// WAP to perform matrix multiplication
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,6 @@
+// WAP to determine the total tax for a given input of income, based on prederfined tax brackets
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

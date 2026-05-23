@@ -1,3 +1,6 @@
+// WAP to determine the number of prime numbers in a given array
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

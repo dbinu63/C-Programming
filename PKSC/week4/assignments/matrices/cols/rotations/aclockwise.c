@@ -1,3 +1,6 @@
+// WAP to rotate the elements of a matrix's columns in an anti-clockwise fashiom
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

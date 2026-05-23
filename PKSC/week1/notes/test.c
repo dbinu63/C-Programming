@@ -1,3 +1,6 @@
+// WAP to print a box of alternating 1s & 0s
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

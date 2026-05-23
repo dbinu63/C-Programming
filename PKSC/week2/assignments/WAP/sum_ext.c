@@ -1,3 +1,6 @@
+// WAP to determine the sum of exterior digits in a given input
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

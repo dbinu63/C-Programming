@@ -1,3 +1,6 @@
+// WAp to insert an input in a given position in a given array
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

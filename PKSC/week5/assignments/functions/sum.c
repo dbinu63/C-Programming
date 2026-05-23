@@ -1,3 +1,6 @@
+// WAP to find the sum of digits of a given input using recursive functions
+// By: D.B.
+
 #include <stdio.h>
 
 int sum(int);

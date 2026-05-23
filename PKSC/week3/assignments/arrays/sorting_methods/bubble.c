@@ -1,3 +1,6 @@
+// WAP to sort an array through bubble sort
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

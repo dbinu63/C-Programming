@@ -1,3 +1,6 @@
+// WAP to find the largest element in every column of a matrix
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

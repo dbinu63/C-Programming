@@ -1,3 +1,6 @@
+// WAP to determine the number of 0s and non-zero numbers in a user input
+// By: D.B.
+
 #include <stdio.h>
 
 int main() {

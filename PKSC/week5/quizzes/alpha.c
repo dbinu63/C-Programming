@@ -21,4 +21,6 @@ int main() {
 
     upper(in);
     lower(in);
+
+    return 0;
 }

@@ -5,12 +5,20 @@
 void copy(char *cpy, char *str);
 
 int main() {
-    char s[] = "Hello there";
-    char *c;
+    char *str, *c, ch;
+    int n = 1;
 
-    c = (char *)malloc((strlen(s) + 1) * sizeof(char));
+    str = (char *)malloc(sizeof(char));
 
-    copy(c, s);
+    while((ch = getchar()) != '\n') {
+        str = realloc(str, ++n * sizeof(char));
+        str[n - 2] = ch;
+    }
+    str[n - 1] = '\0';
+
+    c = (char *)malloc((strlen(str) + 1) * sizeof(char));
+
+    copy(c, str);
 
     printf("Copied string: %s", c);
 

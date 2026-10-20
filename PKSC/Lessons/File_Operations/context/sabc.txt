@@ -1,0 +1,3 @@
+Hello World!
+C is good for programming.
+I like Python too.
